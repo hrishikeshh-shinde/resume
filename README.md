@@ -1,7 +1,7 @@
 ## Hrishikesh Shinde
 
 ### Contact Details:
-1. Email: hshinde@wisc.edu
+1. Email: hrishii.shinde20@gmail.com
 2. LinkedIn: https://www.linkedin.com/in/hrishikeshh-shinde/
 
 I'm a Computer Science graduate from the University of Wisconsin-Madison. Before my master's, I worked as a Software Engineer at Mastercard for about two years on backend and production systems in the payments domain, where I dealt with real production issues, reliability problems, and systems that needed to be correct and stable at scale.
